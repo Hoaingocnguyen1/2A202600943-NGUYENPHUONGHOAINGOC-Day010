@@ -1,0 +1,37 @@
+{
+  "original_rows": 24,
+  "operations": [
+    {
+      "op": "drop_latest_records",
+      "count": 4,
+      "paper_ids": [
+        "10.22158/eltls.v8n3p21",
+        "10.26877/jipmat.v11i1.2279",
+        "10.30656/1intech.v11i2.11359",
+        "10.15294/jvce.v11i2.45302"
+      ]
+    },
+    {
+      "op": "blank_summary",
+      "count": 4
+    },
+    {
+      "op": "inject_noise",
+      "count": 4
+    },
+    {
+      "op": "truncate_title",
+      "count": 4
+    },
+    {
+      "op": "stale_publication_date",
+      "count": 5,
+      "set_to": "2005-01-01"
+    },
+    {
+      "op": "add_duplicates",
+      "count": 3
+    }
+  ],
+  "corrupted_rows": 23
+}

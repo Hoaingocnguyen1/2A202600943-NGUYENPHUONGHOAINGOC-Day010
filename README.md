@@ -41,3 +41,30 @@ pip install -r requirements.txt
 ```
 
 Nếu code chưa chạy được thì đó là bình thường. Các bạn cần hoàn thành các file pseudo-code trước, sau đó mới có thể chạy end-to-end.
+
+## CLI
+
+Ngoài 2 script cố định, có một CLI gộp để dễ reproduce:
+
+```bash
+# chạy baseline
+python script/run.py phase1
+# chạy corruption flow
+python script/run.py corruption
+# chạy cả hai, ép fetch lại nguồn và bật Ragas
+python script/run.py all --refresh-source --run-ragas
+# override provider/model
+python script/run.py phase1 --provider openai --model gpt-4o-mini
+```
+
+Các flag chỉ set biến môi trường tương ứng (`REFRESH_SOURCE`, `REFRESH_TEST_SET`, `RUN_RAGAS`, `LLM_PROVIDER`, `LLM_MODEL`) trước khi gọi pipeline.
+
+## Tests
+
+Bộ test chạy hoàn toàn offline (không cần API key hay network):
+
+```bash
+pytest
+```
+
+Bao phủ: parse Crossref, cleaning, test-set builder, corruption, data-quality và freshness checks.

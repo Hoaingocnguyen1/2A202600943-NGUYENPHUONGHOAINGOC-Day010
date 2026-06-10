@@ -1,0 +1,164 @@
+[
+  {
+    "id": "summary::10.22158/eltls.v8n3p21",
+    "question_type": "summary",
+    "question": "Summarize the paper titled 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin'.",
+    "ground_truth": "This study selects 15 short videos published over the past year by new-type farmers (xin nong ren) on Douyin as research corpus.",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "authors::10.22158/eltls.v8n3p21",
+    "question_type": "authors",
+    "question": "Who authored the paper titled 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin'?",
+    "ground_truth": "Yixin Chen",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "date::10.22158/eltls.v8n3p21",
+    "question_type": "date",
+    "question": "When was the paper titled 'A Multimodal Discourse Analysis of Interpersonal Meaning in New-Type Farmers' Agricultural Promotion Short Videos on Douyin' published on?",
+    "ground_truth": "2027-05-07",
+    "ground_truth_doc_ids": [
+      "10.22158/eltls.v8n3p21"
+    ]
+  },
+  {
+    "id": "summary::10.26877/jipmat.v11i1.2279",
+    "question_type": "summary",
+    "question": "Summarize the paper titled 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'.",
+    "ground_truth": "Pemahaman siswa terhadap ide-ide dasar adalah hasil yang diharapkan dari penyelidikan ini tentang kemanjuran paradigma instruksional Pembelajaran Berbasis Masalah (PBL) dengan penggunaan alat pedagogis.",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "authors::10.26877/jipmat.v11i1.2279",
+    "question_type": "authors",
+    "question": "Who authored the paper titled 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN'?",
+    "ground_truth": "Cikal Wulandari Kristi, Widya Kusumaningsih, Rizky Esti Utami",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "date::10.26877/jipmat.v11i1.2279",
+    "question_type": "date",
+    "question": "When was the paper titled 'PENGARUH MODEL PEMBELAJARAN PROBLEM BASED LEARNING BERBANTUAN MEDIA GASINGKAR TERHADAP PEMAHAMAN KONSEP GARIS SINGGUNG LINGKARAN SISWA KELAS XI SMA PGRI 2 KAYEN' published on?",
+    "ground_truth": "2027-04-27",
+    "ground_truth_doc_ids": [
+      "10.26877/jipmat.v11i1.2279"
+    ]
+  },
+  {
+    "id": "summary::10.30656/1intech.v11i2.11359",
+    "question_type": "summary",
+    "question": "Summarize the paper titled 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction'.",
+    "ground_truth": "The increasingly advanced and modern social and cultural development of society has led many people to prefer instant and practical things, such as online transportation.",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "authors::10.30656/1intech.v11i2.11359",
+    "question_type": "authors",
+    "question": "Who authored the paper titled 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction'?",
+    "ground_truth": "Achmad Fazi Alam, Dhany Isnaeni Dharmawan",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "date::10.30656/1intech.v11i2.11359",
+    "question_type": "date",
+    "question": "When was the paper titled 'The Influence of Servqual and Technology Acceptance Model on Maxim Customer Satisfaction' published on?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.30656/1intech.v11i2.11359"
+    ]
+  },
+  {
+    "id": "summary::10.15294/jvce.v11i2.45302",
+    "question_type": "summary",
+    "question": "Summarize the paper titled 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'.",
+    "ground_truth": "This study aims to examine the effects, improvements, and differences in the skills and work attitudes of students through the integration of a Deep Learning approach with the Project Based Learning PjBL model in the Style and Design Development element of the Fashion Design and Production subject at vocational high schools.",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "authors::10.15294/jvce.v11i2.45302",
+    "question_type": "authors",
+    "question": "Who authored the paper titled 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development'?",
+    "ground_truth": "Umi Chasanah Turosidah, Yeri Sutopo, Sri Endah Wahyuningsih, Ade Novi Nurul Ihsani",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "date::10.15294/jvce.v11i2.45302",
+    "question_type": "date",
+    "question": "When was the paper titled 'Implementation of a Deep Learning Approach with the Project Based Learning Model in the Element of Fashion Style and Design Development' published on?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.15294/jvce.v11i2.45302"
+    ]
+  },
+  {
+    "id": "summary::10.5559/di.di.34.4.01",
+    "question_type": "summary",
+    "question": "Summarize the paper titled 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model'.",
+    "ground_truth": "This study explores how ethical leadership fosters employees' feedback-seeking behaviours.",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "authors::10.5559/di.di.34.4.01",
+    "question_type": "authors",
+    "question": "Who authored the paper titled 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model'?",
+    "ground_truth": "Wasim Ul Rehman, Mustafa Bekmezci, L\u00fctfi S\u00fcr\u00fcc\u00fc, Kamran Ali, Anam Mustansar",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "date::10.5559/di.di.34.4.01",
+    "question_type": "date",
+    "question": "When was the paper titled 'How do Ethical Leaders Promote Employees' Feedback-Seeking Behaviours? A Serial Mediation Model' published on?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.5559/di.di.34.4.01"
+    ]
+  },
+  {
+    "id": "summary::10.51153/mf.v20.i2.709",
+    "question_type": "summary",
+    "question": "Summarize the paper titled 'A Moderating and mediating model of innovation performance'.",
+    "ground_truth": "Pioneer performances depend on entrepreneurial orientation for their success.",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "authors::10.51153/mf.v20.i2.709",
+    "question_type": "authors",
+    "question": "Who authored the paper titled 'A Moderating and mediating model of innovation performance'?",
+    "ground_truth": "Saira Naz, Fatima Liaquat",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  },
+  {
+    "id": "date::10.51153/mf.v20.i2.709",
+    "question_type": "date",
+    "question": "When was the paper titled 'A Moderating and mediating model of innovation performance' published on?",
+    "ground_truth": "2026-12-31",
+    "ground_truth_doc_ids": [
+      "10.51153/mf.v20.i2.709"
+    ]
+  }
+]

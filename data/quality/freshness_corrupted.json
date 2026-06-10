@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-06-10T08:11:37.620457+00:00",
+  "freshness_threshold_days": 180,
+  "total_rows": 23,
+  "latest_published": "2026-12-31",
+  "oldest_published": "2005-01-01",
+  "newest_age_days": -204,
+  "oldest_age_days": 7830,
+  "fresh_rows": 18,
+  "stale_rows": 5,
+  "stale_ratio": 0.2174,
+  "is_fresh": false
+}

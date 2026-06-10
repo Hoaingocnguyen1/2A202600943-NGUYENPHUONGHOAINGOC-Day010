@@ -98,10 +98,18 @@ class LocalEmbeddingIndex:
             client.delete_collection(name=collection_name)
         except Exception:
             pass
-        collection = client.create_collection(
-            name=collection_name,
-            configuration={"hnsw": {"space": "cosine"}},
-        )
+        try:
+            # chromadb >= 1.0 configuration API
+            collection = client.create_collection(
+                name=collection_name,
+                configuration={"hnsw": {"space": "cosine"}},
+            )
+        except (AttributeError, TypeError, ValueError):
+            # chromadb < 1.0 fallback (metadata-based hnsw config)
+            collection = client.create_collection(
+                name=collection_name,
+                metadata={"hnsw:space": "cosine"},
+            )
         embeddings = embedding_model.embed_documents([document["content"] for document in documents])
         collection.add(
             ids=[document["record_id"] for document in documents],
